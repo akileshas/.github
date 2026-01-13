@@ -1,4 +1,4 @@
-### scaling to exaflops and beyond.<br>
+scaling to exaflops and beyond.<br>
 
-> <strong>MIGRATED TO <code><a href="https://codeberg.org/akileshas/">CODEBERG.ORG/AKILESHAS/</a></code>.</strong><br>
-> <i>READ-ONLY MIRRORS</i> are maintained here.<br>
+> migrated to <code><a href="https://codeberg.org/akileshas/">codeberg.org/akileshas/</a></code>.<br>
+> <i>read-only mirrors</i> are maintained here.<br>
